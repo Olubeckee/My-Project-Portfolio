@@ -12,3 +12,4 @@ This page Host all my Data Analysis Project
 - 💓 I am a Passoinate Data Analyst
 - 🔥 I am Proficient with Data Analytical tools like Excel, SPSS, Power BI, SQL and  Python
 - 👌 I've also completed Several Project which you will find here as you Move on
+- 😉 Fun Facts: I love Cooking, Singing and Playing Video Games
