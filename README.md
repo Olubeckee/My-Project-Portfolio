@@ -14,3 +14,6 @@
 
 
 ## Project 1: [HR Analytics to analyse company’s HR data](https://github.com/Olubeckee/Power-BI-Capstone-project)
+
+- # Goal
+The main goal of this case study is to help the Palmoria group to know whether there are gender related issues within the organization and its regions
