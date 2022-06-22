@@ -17,3 +17,9 @@
 
 - # Goal
 The main goal of this case study is to help the Palmoria group to know whether there are gender related issues within the organization and its regions
+
+
+## Project 2: [Business Intelligence Analysis to Communicate Insight from the Company's Order Data](https://github.com/Olubeckee/Excel-Capstone-Project)
+
+- # Goal
+The Goal of the case Study is carry out a Business Intelligence Analysis into the Company Order Data to Enable the Management Make Informed Decision
