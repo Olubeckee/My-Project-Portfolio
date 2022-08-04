@@ -24,7 +24,7 @@ The main goal of this case study is to help the Palmoria group to know whether t
 - # Goal
 The Goal of the case Study is carry out a Business Intelligence Analysis into the Company Order Data to Enable the Management Make Informed Decision
 
-## Project 3: [Case Study: Analysis of International breweries data recorded for a duration of three years](https://github.com/Olubeckee/SQL-Capstone-Project)
+## Project 3: [Analysis of International breweries data recorded for a duration of three years](https://github.com/Olubeckee/SQL-Capstone-Project)
 
 - # Goal
 The Goal of the Project is to Analyse Data and Help Management to Make better Decision in order to Maximise Profit and Reduce Loss to the lowest Minimum
